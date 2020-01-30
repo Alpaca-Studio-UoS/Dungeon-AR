@@ -1,2 +1,9 @@
 AR_Project/Saved
 AR_Project/Intermediate
+AR_Project/Binaries
+AR_Project/DerivedDataCache
+*.sln
+*.sdf
+*.suo
+
+
