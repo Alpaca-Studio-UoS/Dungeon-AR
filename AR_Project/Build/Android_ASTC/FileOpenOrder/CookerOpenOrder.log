@@ -341,39 +341,41 @@
 "../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 340
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 341
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 342
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Blueprints/ARGameMode.uasset" 343
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Widgets/MainMenu.uasset" 344
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 345
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 346
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 347
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 348
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 349
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 350
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 351
-"../../Plugins/Runtime/AR/Google/GoogleARCore/Content/CameraTextureUVParams.uasset" 352
-"../../Plugins/Runtime/AR/Google/GoogleARCore/Content/ARCoreUtils.uasset" 353
-"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 354
-"../../Plugins/Runtime/AR/Google/GoogleARCore/Content/GoogleARCorePassthroughCameraMaterial.uasset" 355
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 356
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 357
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 358
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 359
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 360
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 361
-"../../../Engine/Content/Maps/Entry.umap" 362
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/AR_Images/Raw_Images/Test_Image.uasset" 363
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/AR_Images/Candidate_Images/ImageTest.uasset" 364
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Datatables_TMaps/ARConfig.uasset" 365
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Blueprints/ARGameInstance.uasset" 366
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/3D-Models/Materials/TestPacks/BoxTestOneMat.uasset" 367
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/3D-Models/Models/TestPack/BoxTestOne.uasset" 368
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Blueprints/Rooms/TestPack/BoxTestOne.uasset" 369
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/3D-Models/Materials/TestPacks/BoxTestTwoMat.uasset" 370
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/3D-Models/Models/TestPack/BoxTestTwo.uasset" 371
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Blueprints/Rooms/TestPack/BoxTestTwo.uasset" 372
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Datatables_TMaps/PackStruct.uasset" 373
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Datatables_TMaps/AssociatedPackStruct.uasset" 374
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Blueprints/Spawner.uasset" 375
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/MainLevel_BuiltData.uasset" 376
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Widgets/UI.uasset" 377
-"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/MainLevel.umap" 378
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/AR_Images/Raw_Images/Test_Image.uasset" 343
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Blueprints/ARGameMode.uasset" 344
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Widgets/MainMenu.uasset" 345
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 346
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 347
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 348
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 349
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 350
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 351
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 352
+"../../Plugins/Runtime/AR/Google/GoogleARCore/Content/CameraTextureUVParams.uasset" 353
+"../../Plugins/Runtime/AR/Google/GoogleARCore/Content/ARCoreUtils.uasset" 354
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 355
+"../../Plugins/Runtime/AR/Google/GoogleARCore/Content/GoogleARCorePassthroughCameraMaterial.uasset" 356
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 357
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 358
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 359
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 360
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 361
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 362
+"../../../Engine/Content/Maps/Entry.umap" 363
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/3D-Models/Materials/TestPacks/BoxTestOneMat.uasset" 364
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/3D-Models/Models/TestPack/BoxTestOne.uasset" 365
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Blueprints/Rooms/TestPack/BoxTestOne.uasset" 366
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/3D-Models/Materials/TestPacks/BoxTestTwoMat.uasset" 367
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/3D-Models/Models/TestPack/BoxTestTwo.uasset" 368
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Blueprints/Rooms/TestPack/BoxTestTwo.uasset" 369
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Blueprints/ARGameInstance.uasset" 370
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Boris.uasset" 371
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Musk_Rat.uasset" 372
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/AR_Images/Candidate_Images/ARCoreImageDatabase.uasset" 373
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Datatables_TMaps/ARCoreConfig.uasset" 374
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Datatables_TMaps/PackStruct.uasset" 375
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Datatables_TMaps/AssociatedPackStruct.uasset" 376
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Blueprints/Spawner.uasset" 377
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/MainLevel_BuiltData.uasset" 378
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/Widgets/UI.uasset" 379
+"C:/Users/S177026/Documents/Alpaca studios/AR_Project/Content/MainLevel.umap" 380
